@@ -13,7 +13,7 @@ A web application for scraping college course data using FastAPI, Playwright, an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/parallel-programming-project.git
+   git clone https://github.com/Kishor-J-K/parallel-programming-project.git
    cd parallel-programming-project
    ```
 
@@ -54,3 +54,8 @@ A web application for scraping college course data using FastAPI, Playwright, an
 ## License
 
 MIT License
+
+MIT License
+=======
+# parallel-programming-project
+>>>>>>> 0144b743ba5f7f915f2f5f277cb620410eda25e3
